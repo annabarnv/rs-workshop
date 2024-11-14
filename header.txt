@@ -1,2 +1,4 @@
 Some text for header
+Some more changes
+
 Changes from <master> - new changes ! ! !
