@@ -1,5 +1,11 @@
 Some text for header
+
 Changes from <master>
 Changes from <first>
 
 Text for master: new changes ! ! !
+
+Some more changes
+
+Changes from <master> - new changes ! ! !
+
